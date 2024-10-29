@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JacobCombrink
+- 👀 I’m interested in Game & Software Development
+- 🌱 I’m currently learning Python, C++, Lua, Unreal Engine & Roblox Studio
+- 💞️ I’m looking to collaborate on Anything!
+- 📫 How to reach me - email me at jacob.combrink@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like do impersonations
